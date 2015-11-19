@@ -1,5 +1,5 @@
 # hello-world
 Test repository
-More readme text
+More readme.md text
 
 Changes to master readme file
